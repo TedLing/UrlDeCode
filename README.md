@@ -3,6 +3,7 @@ DELPHI 编写的dll 其他程序调用进行 URLDECODE 和 ENCODE
 
 # 使用说明
  1. powerbuilder 调用语法
+ 2. 其他的语言可以参考 
 
 外部变量：
 ```
